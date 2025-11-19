@@ -1,3 +1,5 @@
+use rand::prelude::*;
+
 fn main() {
-    println!("Hello, world! How are we?");
+    println!("Hello, world!");
 }
