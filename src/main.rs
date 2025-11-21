@@ -9,5 +9,4 @@ fn main() {
     let secret_number = numbers.choose(&mut rng);
 
     println!("{}", secret_number);
-    
 }
